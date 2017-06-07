@@ -1,3 +1,5 @@
+
 shhhhhhh
-hi from git hub.
+i have edited your file to have conflict so that we can understand how to remove conflict
 hello ttnd
+ 
